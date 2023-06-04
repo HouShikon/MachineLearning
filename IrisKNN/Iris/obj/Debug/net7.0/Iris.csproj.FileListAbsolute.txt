@@ -1,0 +1,15 @@
+/Users/fangzikun/Projects/Iris/Iris/bin/Debug/net7.0/Iris
+/Users/fangzikun/Projects/Iris/Iris/bin/Debug/net7.0/Iris.deps.json
+/Users/fangzikun/Projects/Iris/Iris/bin/Debug/net7.0/Iris.runtimeconfig.json
+/Users/fangzikun/Projects/Iris/Iris/bin/Debug/net7.0/Iris.dll
+/Users/fangzikun/Projects/Iris/Iris/bin/Debug/net7.0/Iris.pdb
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.csproj.AssemblyReference.cache
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.AssemblyInfoInputs.cache
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.AssemblyInfo.cs
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.csproj.CoreCompileInputs.cache
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.dll
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/refint/Iris.dll
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.pdb
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/Iris.genruntimeconfig.cache
+/Users/fangzikun/Projects/Iris/Iris/obj/Debug/net7.0/ref/Iris.dll
